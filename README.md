@@ -15,14 +15,9 @@ I enjoy exploring **web development** concepts, though my current focus is on an
 My journey is about combining data-driven insights with modern technology to create meaningful impact.  
 
 ---
-
 ## 📈 Dynamic Profile Stats
 
 <div align="center">
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 <h3 align="center">📊 Profile Insights</h3>
 
@@ -30,13 +25,8 @@ My journey is about combining data-driven insights with modern technology to cre
   <img src="https://komarev.com/ghpvc/?username=SILENTANALYST-SONU&style=for-the-badge&color=ff5733" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/SILENTANALYST-SONU?style=for-the-badge&color=33c1ff&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/SILENTANALYST-SONU?style=for-the-badge&color=28a745&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/repo-count/SILENTANALYST-SONU?style=for-the-badge&color=ffc107&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Commits%20(YTD)-Dynamic-ff33a6?style=for-the-badge&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-Live%20Count-ffc107?style=for-the-badge&logo=github" alt="Repos"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 </div>
 
