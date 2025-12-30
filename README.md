@@ -22,24 +22,16 @@ My journey is about combining data-driven insights with modern technology to cre
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3 align="center">📊 Profile Insights</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SILENTANALYST-SONU&style=for-the-badge&color=2c5364" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/repo-count/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Repos"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ Live Tracking</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SILENTANALYST-SONU&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=SILENTANALYST-SONU&style=for-the-badge&color=ff5733" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SILENTANALYST-SONU?style=for-the-badge&color=33c1ff&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SILENTANALYST-SONU?style=for-the-badge&color=28a745&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-count/SILENTANALYST-SONU?style=for-the-badge&color=ffc107&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Commits%20(YTD)-Dynamic-ff33a6?style=for-the-badge&logo=github" alt="Commits"/>
 </p>
 
 </td>
@@ -47,6 +39,7 @@ My journey is about combining data-driven insights with modern technology to cre
 </table>
 
 </div>
+
 
 ---
 
