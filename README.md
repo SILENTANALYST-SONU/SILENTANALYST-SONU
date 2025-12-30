@@ -18,11 +18,7 @@ My journey is about combining data-driven insights with modern technology to cre
 
 ## 📈 Dynamic Profile Stats
 
-<div align="center">
-
-<h3 align="center">📊 Profile Insights</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=SILENTANALYST-SONU&style=for-the-badge&color=ff5733" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/SILENTANALYST-SONU?style=for-the-badge&color=00ccff&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/SILENTANALYST-SONU?style=for-the-badge&color=28a745&logo=github" alt="Stars"/>
@@ -56,15 +52,37 @@ My journey is about combining data-driven insights with modern technology to cre
 ![Postman](https://img.shields.io/badge/Postman-ffcc00?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
+## 🎓 Certifications
+
+<details>
+  <summary><b>Click to view my certifications</b></summary>
+  <br>
+
+  - 📊 **Data Analytics Certification** – Udemy  
+    [View Certificate](https://www.udemy.com/certificate/your-certificate-id)
+
+  - 🐍 **Python for Data Science** – Coursera  
+    [View Certificate](https://www.coursera.org/account/accomplishments/certificate/your-certificate-id)
+
+  - 📈 **SQL & Database Management** – Udemy  
+    [View Certificate](https://www.udemy.com/certificate/your-certificate-id)
+
+  - 📉 **Power BI & Tableau Dashboards** – LinkedIn Learning  
+    [View Certificate](https://www.linkedin.com/learning/certificates/your-certificate-id)
+
+  - 🤖 **AI/ML Foundations** – Online Program  
+    [View Certificate](https://example.com/your-certificate-link)
+
+</details>
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Skill Swap Platform** | Peer-to-peer learning and collaboration hub | MERN, Auth, REST APIs | [GitHub](https://github.com/SILENTANALYST-SONU) |
-| **Real-Time Money Tracker** | Expense tracking with fraud detection | MERN, ML, Security | [GitHub](https://github.com/SILENTANALYST-SONU) |
-| **Tableau Dashboards** | Interactive analytics dashboards | Tableau, SQL, Excel | [GitHub](https://github.com/SILENTANALYST-SONU) |
-| **AI / ML Experiments** | Experiments in ML models & AI workflows | Python, Scikit-learn, TensorFlow | [GitHub](https://github.com/SILENTANALYST-SONU) |
+| **SQL Data Warehouse Project** | Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics | SQL Server, ETL, Data Modelling | [GitHub](https://github.com/SILENTANALYST-SONU/SQL-DATA-WAREHOUSE-PROJECT) |
+| **Udemy Data Analytics** | Hands-on projects and exercises from Udemy Data Analytics coursework | Python, Pandas, Data Visualization | [GitHub](https://github.com/SILENTANALYST-SONU/UDEMYDATAANALYTICS) |
 
 ---
 
