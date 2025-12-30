@@ -30,7 +30,7 @@ My journey is about combining data-driven insights with modern technology to cre
   <img src="https://komarev.com/ghpvc/?username=SILENTANALYST-SONU&style=for-the-badge&color=2c5364" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/repos/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/github/repo-count/SILENTANALYST-SONU?style=for-the-badge&color=2c5364&logo=github" alt="Repos"/>
 </p>
 
 </td>
@@ -39,11 +39,11 @@ My journey is about combining data-driven insights with modern technology to cre
 <h3 align="center">⚡ Live Tracking</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SILENTANALYST-SONU&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SILENTANALYST-SONU&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SILENTANALYST-SONU&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SILENTANALYST-SONU&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 </td>
@@ -51,6 +51,7 @@ My journey is about combining data-driven insights with modern technology to cre
 </table>
 
 </div>
+
 
 
 **Live Tracking**
