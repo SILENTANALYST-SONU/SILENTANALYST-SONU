@@ -42,25 +42,6 @@ My journey is about combining data-driven insights with modern technology to cre
   <img src="https://github-readme-stats.vercel.app/api?username=SILENTANALYST-SONU&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SILENTANALYST-SONU&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-**Live Tracking**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SILENTANALYST-SONU&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SILENTANALYST-SONU&theme=tokyonight" alt="Streak Stats"/>
-</p>
-
 </td>
 </tr>
 </table>
