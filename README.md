@@ -1,7 +1,8 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=250&section=header&text=%20%20SONU%20KUMAR%20YADAV%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%2FML%20Explorer%20%7C%20Web%20Development%20Enthusiast&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=250&section=header&text=%20%20SONU%20KUMAR%20YADAV%20&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%2FML%20Explorer&descAlignY=65&descAlign=50" />
 </p>
+
 
 <!-- DYNAMIC TEXT -->
 <p align="center">
@@ -84,7 +85,8 @@ My journey is about combining data-driven insights with modern technology to cre
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **SQL Data Warehouse Project** | Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics | SQL Server, ETL, Data Modelling | [GitHub](https://github.com/SILENTANALYST-SONU/SQL-DATA-WAREHOUSE-PROJECT) |
-| **Udemy Data Analytics** | Hands-on projects and exercises from Udemy Data Analytics coursework | Python, Pandas, Data Visualization | [GitHub](https://github.com/SILENTANALYST-SONU/UDEMYDATAANALYTICS) |
+| **11v11-GPT** | A domain-specific football AI assistant designed with strict scope control, language-aware UX, and locked system behavior. Provides tactical analysis, formations, stats, and football insights with higher reliability than general-purpose chatbots |  ChatGpt, Prompt Engineering | [GitHub](https://github.com/SILENTANALYST-SONU/11v11-GPT) |
+| **HR Analytics Dashboard** | End-to-end HR analytics dashboard developed using Tableau, enabling organizations to monitor workforce trends, employee retention, and key HR KPIs through interactive visualizations | Tableau Public, Data Visualization, HR Analytics, Dashboard Design,Excel | [GitHub](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-HR-DASHBOARD-) • [Tableau Public](https://public.tableau.com/) |
 
 ---
 
