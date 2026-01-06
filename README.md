@@ -49,7 +49,9 @@ My journey is about combining data-driven insights with modern technology to cre
 ![Git](https://img.shields.io/badge/Git-00ccff?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-ff00cc?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-28a745?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-ffcc00?style=for-the-badge&logo=postman&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-f9ab00?style=for-the-badge&logo=googlecolab&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-f37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 ## 🎓 Certifications
