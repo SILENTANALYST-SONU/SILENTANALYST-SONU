@@ -124,8 +124,8 @@ My journey is about combining data-driven insights with modern technology to cre
 
 <p align="center">
   <a href="https://github.com/SILENTANALYST-SONU"><img src="https://img.shields.io/badge/GitHub-00ccff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://https://www.linkedin.com/in/sonu-kumar-yadav-sky"><img src="https://img.shields.io/badge/LinkedIn-ff00cc?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-28a745?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sonu-kumar-yadav-sky"><img src="https://img.shields.io/badge/LinkedIn-ff00cc?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-28a745?style=for-the-badge&logo=tableau&logoColor=white"/></a>
   <a href="mailto:sonukumaryadav5560@gmail.com"><img src="https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
