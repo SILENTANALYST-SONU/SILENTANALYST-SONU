@@ -86,7 +86,7 @@ My journey is about combining data-driven insights with modern technology to cre
 |---------|-------------|------------|-------|
 | **SQL Data Warehouse Project** | Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics | SQL Server, ETL, Data Modelling | [GitHub](https://github.com/SILENTANALYST-SONU/SQL-DATA-WAREHOUSE-PROJECT) |
 | **11v11-GPT** | A domain-specific football AI assistant designed with strict scope control, language-aware UX, and locked system behavior. Provides tactical analysis, formations, stats, and football insights with higher reliability than general-purpose chatbots |  Chatgpt, Prompt Engineering | [GitHub](https://github.com/SILENTANALYST-SONU/11v11-GPT) / [Chatgpt]( https://chatgpt.com/g/g-6952dded50fc8191b4933fa14e85fcc9-11v11-gpt)|
-| **HR Analytics Dashboard** | End-to-end HR analytics dashboard developed using Tableau, enabling organizations to monitor workforce trends, employee retention, and key HR KPIs through interactive visualizations | Tableau Public, Data Visualization, HR Analytics, Dashboard Design,Excel | [GitHub](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-HR-DASHBOARD-) / [Tableau Public](https://public.tableau.com/) |
+| **HR Analytics Dashboard** | End-to-end HR analytics dashboard developed using Tableau, enabling organizations to monitor workforce trends, employee retention, and key HR KPIs through interactive visualizations | Tableau Public, Data Visualization, HR Analytics, Dashboard Design,Excel | [GitHub](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-) / [Tableau Public](https://public.tableau.com/) |
 
 ---
 
